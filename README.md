@@ -1,5 +1,5 @@
 # Overview
-The U.S. Presidential Speech Ngram Viewer displays frequencies of n-grams (unigrams, bigrams, and trigrams are possible) from U.S. Presidential Campaign speeches given by major party candidates between 1952 and 2020. Simply type an n-gram in the search box, and possible selections will appear. Once an n-gram is selected, an accompanying figure will display below. 
+[The U.S. Presidential Speech Ngram Viewer](https://sean-bock.shinyapps.io/Presidential_Ngram_viewer/?_ga=2.53193256.1007849256.1676680747-849889320.1676680747) displays frequencies of n-grams (unigrams, bigrams, and trigrams are possible) from U.S. Presidential Campaign speeches given by major party candidates between 1952 and 2020. Simply type an n-gram in the search box, and possible selections will appear. Once an n-gram is selected, an accompanying figure will display below. 
 
 # Which words are included?
 The data have been limited to n-grams that are not made up entirely of stopwords (i.e., common words such as 'the', 'in', 'but', etc.).
